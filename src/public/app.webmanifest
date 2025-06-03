@@ -10,37 +10,37 @@
   "theme_color": "#ADD8E6",
   "icons": [
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "144x144",
       "purpose": "any"
     },
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "48x48",
       "purpose": "maskable"
     },
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "96x96",
       "purpose": "maskable"
     },
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "384x384",
       "purpose": "maskable"
     },
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
@@ -48,21 +48,21 @@
   ],
   "screenshots": [
     {
-      "src": "/images/home.png",
+      "src": "images/home.png",
       "type": "image/png",
       "sizes": "1873x880",
       "label": "Halaman Beranda",
       "form_factor": "wide"
     },
     {
-      "src": "/images/add-story.png",
+      "src": "images/add-story.png",
       "type": "image/png",
       "sizes": "1897x847",
       "label": "Tambah Cerita",
       "form_factor": "wide"
     },
     {
-      "src": "/images/login.png",
+      "src": "images/login.png",
       "type": "image/png",
       "sizes": "1900x876",
       "label": "Halaman Login",
